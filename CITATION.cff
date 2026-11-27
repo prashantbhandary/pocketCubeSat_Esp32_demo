@@ -7,7 +7,8 @@ authors:
     given-names: "Prashant"
     email: "santhprashant@gmail.com"
 repository-code: "https://github.com/prashantbhandary/pocketCubeSat_Esp32_demo"
-url: "https://bhandari-prashant.com.np/publications"
+url: "https://www.researchgate.net/publication/418425160"
+doi: "10.13140/RG.2.2.14744.84482"
 date-released: "2026-01-01"
 preferred-citation:
   type: report
@@ -20,4 +21,5 @@ preferred-citation:
     name: "SEDS Nepal and IOE Pashchimanchal Campus, Tribhuvan University"
   year: 2026
   month: 1
-  url: "https://bhandari-prashant.com.np/publications"
+  url: "https://www.researchgate.net/publication/418425160"
+  doi: "10.13140/RG.2.2.14744.84482"
